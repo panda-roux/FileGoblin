@@ -1,0 +1,13 @@
+[menus]
+menu_size = 300
+
+[rewards]
+read_new_letter = 10
+read_letter = 5
+read_title = 50
+read_word = 20
+read_new_word = 100
+read_folder = 0.1
+read_new_filetype = 10
+
+
